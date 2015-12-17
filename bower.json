@@ -14,18 +14,6 @@
     "qunit": "^1.12",
     "jquery": ">=1.4.3 <2"
   },
-  "ignore": [
-    "examples/",
-    "test/",
-    "CONTRIBUTING.mdown",
-    "Gruntfile.js",
-    "package.json",
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "homepage": "http://masonry.desandro.com",
   "authors": [
     "David DeSandro"
